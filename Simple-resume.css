@@ -1,0 +1,12 @@
+body{
+    margin: 0em 15% 0em 15%;
+}
+.header{
+    text-align: center;
+}
+h2{
+    border-bottom: 3px solid black;
+}
+.graytext{
+    color: gray; opacity: 0.6;
+}
